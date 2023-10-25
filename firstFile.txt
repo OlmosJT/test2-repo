@@ -1,6 +1,6 @@
 line 1
-line 2
-line 3
+line 2 - added story
+line 3 - deleted story
 line 4
 line 5 - is the best line
 line 6 - is the worst line
